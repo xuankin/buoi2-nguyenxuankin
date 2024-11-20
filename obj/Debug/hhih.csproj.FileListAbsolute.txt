@@ -1,0 +1,7 @@
+C:\Users\kingn\source\repos\hhih\hhih\obj\Debug\hhih.csproj.AssemblyReference.cache
+C:\Users\kingn\source\repos\hhih\hhih\obj\Debug\hhih.csproj.CoreCompileInputs.cache
+C:\Users\kingn\source\repos\hhih\hhih\bin\Debug\hhih.exe.config
+C:\Users\kingn\source\repos\hhih\hhih\bin\Debug\hhih.exe
+C:\Users\kingn\source\repos\hhih\hhih\bin\Debug\hhih.pdb
+C:\Users\kingn\source\repos\hhih\hhih\obj\Debug\hhih.exe
+C:\Users\kingn\source\repos\hhih\hhih\obj\Debug\hhih.pdb
